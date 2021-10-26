@@ -1,3 +1,13 @@
+Ionian React Props Tempate
+---
+
+- npx create-react-app "APPNAME"
+- cd APPNAME
+- empty readme (this file)
+- git init
+- go into src and create _template folder
+- create _template.jsx in _template folder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
